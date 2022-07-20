@@ -1,6 +1,14 @@
 // Assignment code here
 
+/*Var section*/
+var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var lowercase = "abcdefghijklmnopqrstuvwxyz";
+var number = "0123456789";
+var specialcharacters = "~`!@#$%^&*()-_+={}[]|:;'<>,.?"
+
 /*User clicks button */ 
+
+
 
 /*Presented with series of prompts for PW criteria*/
 
