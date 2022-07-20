@@ -4,11 +4,35 @@
 var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var lowercase = "abcdefghijklmnopqrstuvwxyz";
 var number = "0123456789";
-var specialcharacters = "~`!@#$%^&*()-_+={}[]|:;'<>,.?"
+var specialcharacters = "~`!@#$%^&*()-_+={}[]|:;'<>,.?";
+var password;
+
 
 /*User clicks button */ 
 
+function passgenerate() {
+  var uppercaseask = confirm("Do you want upper case?")
 
+  if uppercaseask {
+    password += uppercase
+  }
+
+  var lowercaseask = confirm("Do you want lower case?")
+
+  if lowercaseask {
+    password += lowercase
+  }
+
+  var passlength = prompt("How many characters? must be between 8-128")
+  if passlenthask {
+    password = parseInt(passlength)
+  }
+  
+
+
+}
+
+function passl
 
 /*Presented with series of prompts for PW criteria*/
 
