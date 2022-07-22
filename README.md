@@ -6,6 +6,7 @@ This is my Third assignment. In this one I am required to make my own portfolio 
 
 # Screenshots
 https://mtaylo1.github.io/password-generator2/password-generator-screenshot1.PNG
+
 https://mtaylo1.github.io/password-generator2/password-generator-screenshot2.PNG
 
 # Roadmap
